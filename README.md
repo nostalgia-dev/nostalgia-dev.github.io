@@ -1,5 +1,15 @@
 # Prologue - Jekyll Theme
 
+# nostalgia-dev.github.io
+
+To get started, familiarize with the rest of the README, install ruby, and follow below:
+
+    gem install bundler -v 1.12
+    bundle _1.12_ install
+    bundle exec jekyll serve
+
+# Old Readme
+
 [![Gem Version](https://badge.fury.io/rb/jekyll-theme-prologue.svg)](https://badge.fury.io/rb/jekyll-theme-prologue)
 
 ![Prologue Theme](assets/images/screenshot.png "Prologue Theme Screenshot")
@@ -120,20 +130,20 @@ PS: Not sure how to get that contact form working? Give formspree.io a try (it's
 
 Credits:
 
-	Demo Images:
-		Felicia Simion (ineedchemicalx.deviantart.com)
-		Unsplash (unsplash.com)
+    Demo Images:
+        Felicia Simion (ineedchemicalx.deviantart.com)
+        Unsplash (unsplash.com)
 
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
+    Icons:
+        Font Awesome (fortawesome.github.com/Font-Awesome)
 
-	Other
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		CSS3 Pie (css3pie.com)
-		background-size polyfill (github.com/louisremi)
-		Respond.js (j.mp/respondjs)
-		jquery.scrolly (@ajlkn)
-		jquery.scrollzer (@ajlkn)
-		Skel (skel.io)
+    Other
+        jQuery (jquery.com)
+        html5shiv.js (@afarkas @jdalton @jon_neal @rem)
+        CSS3 Pie (css3pie.com)
+        background-size polyfill (github.com/louisremi)
+        Respond.js (j.mp/respondjs)
+        jquery.scrolly (@ajlkn)
+        jquery.scrollzer (@ajlkn)
+        Skel (skel.io)
 ```
