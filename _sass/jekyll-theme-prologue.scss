@@ -65,7 +65,7 @@
         font-size: 19pt;
         font-weight: 300;
         line-height: 1.75em;
-        color: #888;
+        color: #222629;
 
         &.is-loading * {
             @include vendor('transition', 'none !important');
@@ -78,7 +78,7 @@
         font-size: 19pt;
         font-weight: 300;
         line-height: 1.75em;
-        color: #888;
+        color: #222629;
     }
 
     h1, h2, h3, h4, h5, h6 {
@@ -497,7 +497,7 @@
         position: fixed;
         text-align: right;
         top: 0;
-        width: 375px;
+        width: 300px;
 
         .top {
             @include vendor('flex-grow', '1');
@@ -549,7 +549,7 @@
             position: relative;
             display: block;
             font-size: 0.6em;
-            color: rgba(255, 255, 255, 0.5);
+            color: rgba(255, 255, 255, 0.8);
             line-height: 1.25em;
             margin: 0.5em 0 0 0;
         }
@@ -573,7 +573,7 @@
                 a {
                     display: block;
                     padding: 0.5em 1.5em 0.5em 1.5em;
-                    color: rgba(255, 255, 255, 0.5);
+                    color: rgba(255, 255, 255, 0.8);
                     text-decoration: none;
                     outline: 0;
                     border: 0;
@@ -611,7 +611,7 @@
 /* Footer */
 
     #footer {
-        margin-left: 375px;
+        margin-left: 300px;
         text-align: center;
         background-color: #dce3e2;
         padding: 3em 0 4em 0;
@@ -641,7 +641,7 @@
 /* Main */
 
     #main {
-        margin-left: 375px;
+        margin-left: 300px;
         > section {
             text-align: center;
         }
